@@ -12,14 +12,6 @@ It features a **cute pastel gradient theme**, smooth animations, and lap recordi
 - **Glassmorphism UI** (blurred, semi-transparent container).
 - **Animated icon and hover effects** on buttons.
 - **Responsive design** – works on mobile and desktop.
-
----
-
-## 🖼️ Preview
-> **Ensure your screenshot image file is placed in the project root as `stopwatch.jpeg`.**  
-
-![Stopwatch Preview](stopwatch.jpeg)
-
 ---
 
 ---
